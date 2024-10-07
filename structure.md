@@ -17,7 +17,9 @@ PrepTeX/
 ├── requirements.txt                # Dependencies list for the project
 ├── setup.py                        # For setting up the package
 ├── LICENSE                         # Project license (e.g., MIT)
-└── latex_processor.py              # Main script for the CLI to extract content
+|── cli/                            # CLI to extract content
+│   ├── __init__.py                 # Initializes the Python package
+
 ```
 
 ### Key Components:
