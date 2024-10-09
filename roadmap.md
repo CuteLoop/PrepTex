@@ -9,7 +9,7 @@
   - Create a `.gitignore` file (ignore unnecessary files like `.pyc`, OS files, etc.).
   - Add a `README.md` with a project overview.
 
-- [ ] **Create the repository structure:**
+- [x] **Create the repository structure:**
   - Create directories: `latex_processor/`, `tests/`, and `data/`.
   - Add `__init__.py` to the `latex_processor/` directory to make it a package.
   - Add a sample `.tex` file in `data/` for testing.
@@ -19,15 +19,15 @@
 
 ### **2. Write Initial Tests (TDD)**
 
-- [ ] **Create tests for file handling (`tests/test_file_handler.py`):**
+- [x] **Create tests for file handling (`tests/test_file_handler.py`):**
   - Write tests for reading a LaTeX file.
   - Write tests for writing output to a LaTeX file.
   
-- [ ] **Create tests for extraction logic (`tests/test_extraction.py`):**
+- [x] **Create tests for extraction logic (`tests/test_extraction.py`):**
   - Write tests to extract theorems, lemmas, and propositions.
   - Write tests to extract examples and exercises.
   
-- [ ] **Create tests for the command-line interface (CLI) (`tests/test_cli.py`):**
+- [x] **Create tests for the command-line interface (CLI) (`tests/test_cli.py`):**
   - Write tests to ensure the CLI can run and extract content correctly.
 
 ---
