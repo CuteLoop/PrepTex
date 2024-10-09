@@ -9,7 +9,7 @@
   - Create a `.gitignore` file (ignore unnecessary files like `.pyc`, OS files, etc.).
   - Add a `README.md` with a project overview.
 
-- [ ] **Create the repository structure:**
+- [x] **Create the repository structure:**
   - Create directories: `latex_processor/`, `tests/`, and `data/`.
   - Add `__init__.py` to the `latex_processor/` directory to make it a package.
   - Add a sample `.tex` file in `data/` for testing.
