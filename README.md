@@ -56,7 +56,7 @@ pytest
 
 ## Contributing
 
-We welcome contributions! Feel free to submit a pull request or open an issue if you encounter any bugs or have feature suggestions. Take a look at the [development roadmap](./roadmap.md) to see our upcoming features and improvements.
+We welcome contributions! Feel free to submit a pull request or open an issue if you encounter any bugs or have feature suggestions. Take a look at the [development roadmap](./roadmap.md) to see our upcoming features and improvements. Additionally [Our tests To Do for contributing.](./TestsToDo/2InitialTests.md)
 
 ## Acknowledgments
 
