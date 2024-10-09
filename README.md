@@ -56,7 +56,7 @@ pytest
 
 ## Contributing
 
-We welcome contributions! Feel free to submit a pull request or open an issue if you encounter any bugs or have feature suggestions.
+We welcome contributions! Feel free to submit a pull request or open an issue if you encounter any bugs or have feature suggestions. Take a look at the [development roadmap](./roadmap.md) to see our upcoming features and improvements.
 
 ## Acknowledgments
 
@@ -66,6 +66,3 @@ This project was built with the help of [GitHub Copilot](https://github.com/feat
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This **README.md** provides an overview of your project, installation steps, usage instructions, and an acknowledgment section for the tools that assisted in its development. Let me know if you need to adjust anything!
